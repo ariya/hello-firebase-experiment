@@ -27,5 +27,11 @@
     "quoteProps": "consistent",
     "singleQuote": true,
     "trailingComma": "none"
+  },
+  "dependencies": {
+    "@google-cloud/firestore": "~3.7.5",
+    "firebase-admin": "~8.11.0",
+    "firebase-functions": "~3.6.1",
+    "firebase-tools": "~8.2.0"
   }
 }
