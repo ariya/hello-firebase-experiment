@@ -2,7 +2,7 @@
   "name": "hello-firebase-experiment",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "functions/index.js",
   "scripts": {
     "test": "npm run jasmine && npm run check-format",
     "jasmine": "jasmine",
