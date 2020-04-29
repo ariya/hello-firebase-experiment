@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm run check-format",
+    "test": "npm run jasmine && npm run check-format",
+    "jasmine": "jasmine",
     "check-format": "prettier --check \"**/*.js\"",
     "format-code": "prettier --write \"**/*.js\"",
     "firebase": "firebase"
