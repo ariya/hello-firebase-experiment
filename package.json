@@ -6,7 +6,8 @@
   "scripts": {
     "test": "npm run check-format",
     "check-format": "prettier --check \"**/*.js\"",
-    "format-code": "prettier --write \"**/*.js\""
+    "format-code": "prettier --write \"**/*.js\"",
+    "firebase": "firebase"
   },
   "repository": {
     "type": "git",
