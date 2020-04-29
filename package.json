@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ariya/hello-firebase-experiment/issues"
   },
-  "homepage": "https://github.com/ariya/hello-firebase-experiment#readme"
+  "homepage": "https://github.com/ariya/hello-firebase-experiment#readme",
+  "devDependencies": {
+    "prettier": "~2.0.5"
+  }
 }
